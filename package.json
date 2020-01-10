@@ -1,0 +1,17 @@
+{
+  "name": "morgan_winston_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "rotating-file-stream": "^2.0.1",
+    "winston": "^3.2.1"
+  }
+}
