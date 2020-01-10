@@ -11,10 +11,5 @@ npm init
 
 set the "main" to server.js
 
-npm install express --save
+npm install --save express morgan winston rotating-file-stream
 
-npm install morgan --save
-
-npm install winston --save
-
-npm install rotating-file-stream --save
